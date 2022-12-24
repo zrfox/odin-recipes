@@ -3,4 +3,14 @@
 h1 {text-align: center;}
 
 body{
-    background-image: url("background.jpeg");}
+    background-image: url(recipes/backgroundFix.jpg);
+   /*background-size:auto, contain;*/
+
+
+
+
+}
+
+
+.textt{background-color:rgb(247, 247, 247);}
+
